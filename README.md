@@ -1,6 +1,6 @@
 # POOM_HUB_UI
 
-# [SOURCE LINK](https://raw.githubusercontent.com/3345-c-a-t-s-u-s/POOM_HUB_UI/main/source.lua)https://raw.githubusercontent.com/3345-c-a-t-s-u-s/POOM_HUB_UI/main/source.lua
+# [SOURCE LINK](https://raw.githubusercontent.com/3345-c-a-t-s-u-s/POOM_HUB_UI/main/source.lua)
 
 # Source to use
 
